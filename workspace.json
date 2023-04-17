@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "470780117a8dc9d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e949c5fb93604229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32e7c5317173090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH165/Unit 4 Vector space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c46a3f29767895ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH165/Unit 4 Vector space.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03bd281585fc73ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dc788ee193d248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8875d62c9bfdd3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cec55f7435c04762",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Expectation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ac8004b4fe85b5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cc093f1632a116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3ceeec603c02c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MATH165/Unit 4 Vector space.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4c80cb309f588a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MATH165/Unit 4 Vector space.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e572fa14d64e99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "c280e8bf0f97dfba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MATH165/Unit 4 Vector space.md"
+              }
+            }
+          },
+          {
+            "id": "7d9ff6896c2a8f7d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "workspaces:管理工作区布局": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "f32e7c5317173090",
+  "lastOpenFiles": [
+    "MATH165/Unit 5 Linear Transformation.md",
+    "MATH165/Review.md",
+    "MATH165/Unit 4 Vector space.md",
+    "MATH165/Unit 3 Determinants.md",
+    "MATH165/Unit 2 Intro the matrix.md",
+    "MATH165/Unit 1 Dfiferential Equation.md",
+    "MATH201/Unit 8 Expectation and variance in the multivariate setting.md",
+    "MATH201/Unit 6 Joint Distribution for random Variables.md",
+    "MATH165/Unit 6 Higher order Differential equation.md",
+    "MATH201/Unit 2 conditional probability.md",
+    "MATH201/Unit 4 Approximation of binomial distribution.md",
+    "MATH201/Unit 3 Random Variables.md",
+    "MATH201/Unit 1 Finite probability.md",
+    "WRTG105E/short essay draft.md",
+    "WRTG105E/Topic selection.md",
+    "Home.md",
+    "CSC173/README.md",
+    "Day Planners/Day Planner-20230416.md",
+    "Day Planners/Day Planner-20230415.md",
+    "Muti-variable Cal/mutivariable calculus.md",
+    "general.md",
+    "Mutiple integrals.md",
+    "2023-04-12.md",
+    "2023-04-15.md",
+    "Double integrals over region.md",
+    "未命名",
+    "Day Planners",
+    "Final review.md",
+    "attachment file/Screenshot 2022-12-08 at 8.15.03 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 8.55.43 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.02.55 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.13.30 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.27.25 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.37.34 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.46.08 PM.png",
+    "attachment file/Screenshot 2022-12-09 at 9.51.43 PM.png",
+    "attachment file/Screenshot 2022-12-11 at 1.15.47 PM.png",
+    "attachment file/Screenshot 2022-12-11 at 1.20.56 PM.png",
+    "Muti-variable Cal",
+    "untitled folder",
+    "未命名.canvas"
+  ]
+}

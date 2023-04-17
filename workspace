@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "470780117a8dc9d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da5d3f7af3def92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Discrete Mathmatics/MATH150 WRHW5.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03bd281585fc73ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dc788ee193d248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8875d62c9bfdd3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cec55f7435c04762",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c632393b92a09c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac8004b4fe85b5ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cc093f1632a116",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3ceeec603c02c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Discrete Mathmatics/MATH150 WRHW5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f4c80cb309f588a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Discrete Mathmatics/MATH150 WRHW5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e572fa14d64e99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c280e8bf0f97dfba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Discrete Mathmatics/MATH150 WRHW5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8875d62c9bfdd3a",
+  "lastOpenFiles": [
+    "Discrete Mathmatics/MATH150 WRHW4.md",
+    "Discrete Mathmatics/MATH150 WRHW5.md",
+    "Discrete Mathmatics/Modolar Arithmetic.md",
+    "未命名.md",
+    "Discrete Mathmatics/midterm one review.md",
+    "CS porject mindmap/Mapping.md",
+    "Screen Shot 2022-10-16 at 1.46.10 PM.png",
+    "CS porject mindmap/# Mapping.md",
+    "Diary/2022-10-11.md",
+    "Diary/2022-10-07.md"
+  ]
+}
