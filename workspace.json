@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "e949c5fb93604229",
+        "id": "360ca16b9712a7c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f32e7c5317173090",
+            "id": "7145ded70c256d7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH165/Unit 4 Vector space.md",
+                "file": "02. 主页/04. 学习目录.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c46a3f29767895ac",
+            "id": "9f8877bdf7dab24c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH165/Unit 4 Vector space.md",
+                "file": "02. 主页/01. Homepage.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "28e5b7b42b3d5489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. 主页/02. 代办.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a51879b00fab8121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. 主页/01. Homepage.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -43,6 +68,7 @@
       {
         "id": "a1dc788ee193d248",
         "type": "tabs",
+        "dimension": 61.4218009478673,
         "children": [
           {
             "id": "e8875d62c9bfdd3a",
@@ -60,13 +86,28 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Expectation",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18d713f22deed180",
+        "type": "tabs",
+        "dimension": 38.5781990521327,
+        "children": [
+          {
+            "id": "290bc2e1c058782f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
@@ -84,29 +125,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a3ceeec603c02c2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "MATH165/Unit 4 Vector space.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "f4c80cb309f588a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH165/Unit 4 Vector space.md",
+                "file": "02. 主页/01. Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,80 +153,120 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH165/Unit 4 Vector space.md"
+                "file": "02. 主页/01. Homepage.md"
               }
             }
           },
           {
-            "id": "7d9ff6896c2a8f7d",
+            "id": "af0f5586d940afad",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "02. 主页/01. Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "023914cf4344b9ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7757161294dee470",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b3b787aa5a187f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. 主页/07. 边栏任务清单.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:打开/创建今天的日记": false,
       "workspaces:管理工作区布局": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
     }
   },
-  "active": "f32e7c5317173090",
+  "active": "a51879b00fab8121",
   "lastOpenFiles": [
-    "MATH165/Unit 5 Linear Transformation.md",
-    "MATH165/Review.md",
-    "MATH165/Unit 4 Vector space.md",
-    "MATH165/Unit 3 Determinants.md",
-    "MATH165/Unit 2 Intro the matrix.md",
-    "MATH165/Unit 1 Dfiferential Equation.md",
-    "MATH201/Unit 8 Expectation and variance in the multivariate setting.md",
-    "MATH201/Unit 6 Joint Distribution for random Variables.md",
-    "MATH165/Unit 6 Higher order Differential equation.md",
-    "MATH201/Unit 2 conditional probability.md",
-    "MATH201/Unit 4 Approximation of binomial distribution.md",
-    "MATH201/Unit 3 Random Variables.md",
-    "MATH201/Unit 1 Finite probability.md",
-    "WRTG105E/short essay draft.md",
-    "WRTG105E/Topic selection.md",
-    "Home.md",
-    "CSC173/README.md",
-    "Day Planners/Day Planner-20230416.md",
-    "Day Planners/Day Planner-20230415.md",
-    "Muti-variable Cal/mutivariable calculus.md",
-    "general.md",
-    "Mutiple integrals.md",
-    "2023-04-12.md",
-    "2023-04-15.md",
-    "Double integrals over region.md",
-    "未命名",
-    "Day Planners",
-    "Final review.md",
-    "attachment file/Screenshot 2022-12-08 at 8.15.03 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 8.55.43 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.02.55 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.13.30 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.27.25 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.37.34 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.46.08 PM.png",
-    "attachment file/Screenshot 2022-12-09 at 9.51.43 PM.png",
-    "attachment file/Screenshot 2022-12-11 at 1.15.47 PM.png",
-    "attachment file/Screenshot 2022-12-11 at 1.20.56 PM.png",
-    "Muti-variable Cal",
-    "untitled folder",
+    "02. 主页/02. 代办.md",
+    "02. 主页/01. Homepage.md",
+    "02. 主页/04. 学习目录.md",
+    "01. academic/CSC173/Paterns, Automata and Regular Expressions.md",
+    "02. 主页/07. 边栏任务清单.md",
+    "02. 主页/05. 周记.md",
+    "02. 主页/06. 阅读计划.md",
+    "02. 主页/quick_add_templete/week note templete.md",
+    "03. Notes/2023 16周.md",
+    "00. Inbox/未命名 1.md",
+    "02. 主页/03. 计划.md",
+    "03. Notes/2023 16周1.md",
+    "2023 16周.md",
+    "03. Notes/weekly note 2023-04-25.md",
+    "03. Notes/weekly note 2023-04-22.md",
+    "02. 主页/00. weekly_note.md",
+    "Weekly note 2023-04-22 -2023-04-29.md",
+    "01. academic/MATH201/Unit 1 Finite probability.md",
+    "03. Notes/未命名.md",
+    "00. Inbox/未命名.md",
+    "00. Inbox/travel note.md",
+    "03. Notes",
+    "00. Inbox/new1.md",
+    "00. Inbox/new2.md",
+    "00. Inbox",
+    "wtf.md",
+    "01. academic/MATH201/Sum of Independent Random variables.md",
+    "01. academic/Muti-variable Cal/mutivariable calculus.md",
+    "02. 主页/quick_add_templete",
+    "01. academic",
+    "learn",
+    "React_Component",
+    "主页/ReactComponent",
+    "99. src/1307233.png",
+    "attachment file/mandalorian-season-3-returning-characters.jpg.webp",
+    "02. 主页",
+    "sharetype.css",
+    "homepage setting.css",
+    "99. src/Screenshot 2022-12-08 at 8.15.03 PM.png",
+    "99. src/Screenshot 2022-12-09 at 8.55.43 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.02.55 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.13.30 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.27.25 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.37.34 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.46.08 PM.png",
+    "99. src/Screenshot 2022-12-09 at 9.51.43 PM.png",
     "未命名.canvas"
   ]
 }

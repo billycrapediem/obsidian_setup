@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Home",
+      "value": "主页/01. Homepage",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,

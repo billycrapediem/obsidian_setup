@@ -7,7 +7,11 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "attachmentFolderPath": "attachment file",
+  "attachmentFolderPath": "99. src",
   "spellcheck": true,
-  "vimMode": false
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00. Inbox",
+  "alwaysUpdateLinks": true,
+  "livePreview": true
 }

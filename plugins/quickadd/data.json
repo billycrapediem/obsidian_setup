@@ -1,0 +1,242 @@
+{
+  "choices": [
+    {
+      "id": "eab60ba3-7158-4ef8-94f8-ab4bc3401f21",
+      "name": "Memos",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "03. Notes/{{DATE:YYYY Wo}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{value}}      (Day:{{DATE:d}})        \n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Memos",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "f140ac0c-2459-4c3b-855f-8f3e2442583f",
+      "name": "add today task",
+      "type": "Macro",
+      "command": false,
+      "macroId": "f2ffe056-6552-4177-801e-6495c8603000"
+    },
+    {
+      "id": "3e082ed0-1c33-42a7-85fc-b123faed0cc2",
+      "name": "weekly note",
+      "type": "Macro",
+      "command": false,
+      "macroId": "29f5481d-9d6b-47f5-9737-b4558db691a3"
+    }
+  ],
+  "macros": [
+    {
+      "name": "add today task",
+      "id": "f2ffe056-6552-4177-801e-6495c8603000",
+      "commands": [
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "805a6105-d0f5-4a28-8730-f7fb7b89577c",
+          "choice": {
+            "id": "c7b8e644-a56c-4419-95c3-786cf81acc2f",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "02. 主页/02. 代办.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": false,
+              "format": ""
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Tasks: Create or edit task",
+          "type": "Obsidian",
+          "id": "0b9e194a-a334-41f7-8fb6-1305b8dab83e",
+          "commandId": "obsidian-tasks-plugin:edit-task"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "weekly note",
+      "id": "29f5481d-9d6b-47f5-9737-b4558db691a3",
+      "commands": [
+        {
+          "name": "Untitled Template Choice",
+          "type": "NestedChoice",
+          "id": "c9300638-6b8f-4b75-99e4-b6065bc2988e",
+          "choice": {
+            "id": "7983bbe0-dff3-4254-9a46-49842aa7e5a2",
+            "name": "Untitled Template Choice",
+            "type": "Template",
+            "command": false,
+            "templatePath": "02. 主页/quick_add_templete/week note templete.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE:YYYY Wo}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "03. Notes"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": true
+          }
+        },
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "74c74c35-68de-4be1-9c11-801883863d7b",
+          "choice": {
+            "id": "6d861c4a-b244-478c-974d-bbe13f2ec46e",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "03. Notes/{{DATE:YYYY Wo}}",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": ">[!col2-left] on progress\n> ```tasks\nhide due date\nhide recurrence rule\nhide scheduled date\nhide created date\nnot done\nhide backlink\ndue in {{DATE:YYYY-MM-DD}} {{DATE:YYYY-MM-DD+6}}```\n\n\n\n\n\n\n\n> [!col2-right-pink]  completed\n> ```tasks\nhide due date\nhide recurrence rule\nhide scheduled date\ndone in {{DATE:YYYY-MM-DD}} {{DATE:YYYY-MM-DD+6}}\nhide backlink```\n\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "# Task",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Untitled Capture Choice",
+          "type": "NestedChoice",
+          "id": "97c388e5-dda6-4c1a-bd45-516f4af96be4",
+          "choice": {
+            "id": "7e8ac5c1-d93c-4bae-b5d3-aa7c7508702e",
+            "name": "Untitled Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "02. 主页/05. 周记.md",
+            "captureToActiveFile": false,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "[[03. Notes/{{DATE:YYYY Wo}}]]\n"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "主页/quick_add_templete",
+  "announceUpdates": true,
+  "version": "0.21.0",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

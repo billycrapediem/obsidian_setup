@@ -1,7 +1,11 @@
 {
   "cssTheme": "Things",
   "translucency": false,
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "theme": "obsidian",
-  "accentColor": "#1265d9"
+  "accentColor": "#1265d9",
+  "enabledCssSnippets": [
+    "column",
+    "basic"
+  ]
 }
