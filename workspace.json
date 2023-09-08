@@ -4,59 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "360ca16b9712a7c3",
+        "id": "d16b77ef34985e74",
         "type": "tabs",
         "children": [
           {
-            "id": "7145ded70c256d7f",
+            "id": "857979e2bee57422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. 主页/04. 学习目录.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f8877bdf7dab24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 主页/01. Homepage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e5b7b42b3d5489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 主页/02. 代办.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a51879b00fab8121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 主页/01. Homepage.md",
+                "file": "01.literature/Differential Equation.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a640ee9be2fc20e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. board/02. 代办.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,7 @@
       {
         "id": "a1dc788ee193d248",
         "type": "tabs",
-        "dimension": 61.4218009478673,
+        "dimension": 81.48148148148148,
         "children": [
           {
             "id": "e8875d62c9bfdd3a",
@@ -94,13 +69,32 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2d99bf9ee7588947",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "27e572fa14d64e99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       },
       {
         "id": "18d713f22deed180",
         "type": "tabs",
-        "dimension": 38.5781990521327,
+        "dimension": 18.51851851851852,
         "children": [
           {
             "id": "290bc2e1c058782f",
@@ -114,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac8004b4fe85b5ea",
@@ -130,20 +125,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02. 主页/01. Homepage.md",
+                "file": "01.literature/Differential Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "27e572fa14d64e99",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
               }
             }
           },
@@ -153,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. 主页/01. Homepage.md"
+                "file": "01.literature/Differential Equation.md"
               }
             }
           },
@@ -163,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02. 主页/01. Homepage.md",
+                "file": "01.literature/Differential Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,99 +158,71 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "023914cf4344b9ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7757161294dee470",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "0b3b787aa5a187f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 主页/07. 边栏任务清单.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templates:插入模板": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
       "graph:查看关系图谱": false
     }
   },
-  "active": "a51879b00fab8121",
+  "active": "857979e2bee57422",
   "lastOpenFiles": [
-    "02. 主页/02. 代办.md",
-    "02. 主页/01. Homepage.md",
-    "02. 主页/04. 学习目录.md",
-    "01. academic/CSC173/Paterns, Automata and Regular Expressions.md",
-    "02. 主页/07. 边栏任务清单.md",
-    "02. 主页/05. 周记.md",
-    "02. 主页/06. 阅读计划.md",
-    "02. 主页/quick_add_templete/week note templete.md",
-    "03. Notes/2023 16周.md",
-    "00. Inbox/未命名 1.md",
-    "02. 主页/03. 计划.md",
-    "03. Notes/2023 16周1.md",
-    "2023 16周.md",
-    "03. Notes/weekly note 2023-04-25.md",
-    "03. Notes/weekly note 2023-04-22.md",
-    "02. 主页/00. weekly_note.md",
-    "Weekly note 2023-04-22 -2023-04-29.md",
-    "01. academic/MATH201/Unit 1 Finite probability.md",
-    "03. Notes/未命名.md",
-    "00. Inbox/未命名.md",
-    "00. Inbox/travel note.md",
+    "01.literature/01. Literature Note.md",
+    "01.literature/Higher order Differential equation.md",
+    "04. board/01. Homepage.md",
+    "04. board/02. 代办.md",
+    "03.record/2023 36周.md",
+    "05. project/math200/hw01.md",
+    "01.literature/Greedy DP.md",
+    "00.fleeting/06. 阅读计划.md",
+    "04. board/03. 计划.md",
+    "04. board/07. 边栏任务清单.md",
+    "02.permanent/面试时间线.md",
+    "03.record/2023 35周.md",
+    "05. project/math200",
+    "02.permanent/ML project report.md",
+    "01.literature/Sum of Independent Random variables.md",
+    "01.literature/Expectation and variance in the multivariate setting.md",
+    "01.literature/Joint Distribution for random Variables.md",
+    "01.literature/Approximation of binomial distribution.md",
+    "01.literature/Random Variables.md",
+    "01.literature/conditional probability.md",
+    "01.literature/Finite probability.md",
+    "00.fleeting/test.md",
+    "01.literature/C TuTorial.md",
+    "01.literature/Aconda.md",
+    "01.literature/reinforcement learning/EasyRL_v.1.0.4.pdf",
+    "01.literature/Vector space.md",
+    "99. src/Screenshot 2023-06-11 at 11.01.21 AM.png",
+    "99. src/Screenshot 2023-06-11 at 11.35.11 AM.png",
+    "99. src/analysis.png",
+    "99. src/conver_test.png",
+    "99. src/Figur_1.png",
+    "99. src/Figure_1.png",
+    "99. src/special.png",
+    "05. project/RL env/env.md",
+    "00.fleeting/未命名 1.md",
+    "05. project/RL env",
+    "99. src/Screenshot 2023-07-23 at 6.45.16 PM.png",
+    "99. src/Screenshot 2023-07-23 at 6.44.49 PM.png",
+    "99. src/Screenshot 2023-07-23 at 6.44.36 PM.png",
     "03. Notes",
-    "00. Inbox/new1.md",
-    "00. Inbox/new2.md",
-    "00. Inbox",
-    "wtf.md",
-    "01. academic/MATH201/Sum of Independent Random variables.md",
-    "01. academic/Muti-variable Cal/mutivariable calculus.md",
-    "02. 主页/quick_add_templete",
-    "01. academic",
-    "learn",
-    "React_Component",
-    "主页/ReactComponent",
-    "99. src/1307233.png",
-    "attachment file/mandalorian-season-3-returning-characters.jpg.webp",
-    "02. 主页",
-    "sharetype.css",
-    "homepage setting.css",
-    "99. src/Screenshot 2022-12-08 at 8.15.03 PM.png",
-    "99. src/Screenshot 2022-12-09 at 8.55.43 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.02.55 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.13.30 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.27.25 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.37.34 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.46.08 PM.png",
-    "99. src/Screenshot 2022-12-09 at 9.51.43 PM.png",
+    "05. project",
+    "主页",
+    "02.permanent",
+    "02. 主页/未命名",
+    "01. academic/reinforcement learning/EasyRL_v.1.0.4.pdf.sb-3817cfa2-b8Cata",
+    "99. src/training_nolabel.txt",
     "未命名.canvas"
   ]
 }

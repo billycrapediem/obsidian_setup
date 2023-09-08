@@ -26,37 +26,6 @@
   button.mod-cta:hover {
     background-color: rgba(10,89,247,.8);
   }
-  /* 编辑和预览模式下文字间距与文字对齐 */
-.markdown-preview-view {
-    letter-spacing: .02em;
-    text-align: justify;
-    hyphens: auto;
-  }
-  .cm-s-obsidian .CodeMirror-line * {
-    letter-spacing: .02em;
-  }
-
-  a, .markdown-preview-view .internal-link {
-    text-decoration: none;
-    color: #0A59F7;
-    /* padding: 2px 0; */
-  }
-  .cm-s-obsidian span.cm-hmd-internal-link {
-    color: #0A59F7;
-  }
-  .markdown-preview-view mark .internal-link {
-    font-weight: 500;
-  }
-  .markdown-preview-view .internal-link:hover {
-    text-decoration: none;
-    background-color: rgba(51,112,255,.1);
-    padding: 2px 0;
-  }
-  
-  .external-link:hover {
-    color: rgba(10,89,247,.8);
-    text-decoration: none;
-  }
   
   /* 去掉 a 链接后面的 icon */
   .external-link {
@@ -314,33 +283,5 @@
     margin-left: -45px;
   }
 
- /* 图谱颜色 */
-.graph-view.color-fill,
-.theme-dark .graph-view.color-fill-tag,
-.theme-light .graph-view.color-fill-tag,
-.theme-dark .graph-view.color-fill-attachment,
-.theme-light .graph-view.color-fill-attachment,
-.graph-view.color-fill-focused,
-.graph-view.color-circle {
-  color: rgb(132, 186, 234);
-}
-.graph-view.color-line {
-  color: rgba(255, 255, 255, 0.8);
-}
-.graph-view.color-text {
-  color: rgb(173, 255, 106);
-  opacity: 0.3;
-}
-.graph-view.color-arrow {
-  color: #faf6eb;
-  /* color: rgba(0,0,0); */
-}
-.graph-view.color-fill-unresolved {
-  color: rgba(10,89,247,.9);
-}
-.graph-view.color-fill-highlight,
-.graph-view.color-line-highlight {
-  color: rgba(10,89,247,.8);
-}
 
   

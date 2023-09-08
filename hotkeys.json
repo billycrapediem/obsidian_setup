@@ -7,12 +7,12 @@
       "key": "H"
     }
   ],
-  "note-composer:merge-file": [
+  "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "R"
+      "key": "K"
     }
   ],
   "quickadd:runQuickAdd": [
@@ -20,15 +20,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "Q"
-    }
-  ],
-  "obsidian-tasks-plugin:edit-task": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "K"
+      "key": "R"
     }
   ]
 }

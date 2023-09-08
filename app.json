@@ -11,7 +11,9 @@
   "spellcheck": true,
   "vimMode": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00. Inbox",
+  "newFileFolderPath": "00.fleeting",
   "alwaysUpdateLinks": true,
-  "livePreview": true
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "trashOption": "local"
 }

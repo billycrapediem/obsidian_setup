@@ -36,7 +36,7 @@ body {
 
   --h1-color: var(--text-normal);
   --h2-color: var(--blue);
-  --h3-color: var(--blue);
+  --h3-color: var(--yellow);
   --h4-color: var(--yellow);
   --h5-color: var(--red);
   --h6-color: var(--text-muted);
@@ -207,7 +207,7 @@ body.theme-dark.is-mobile {
   --color-purple: #a882ff;
   --color-pink: #fa99cd;
   --color-base-00: #1c2127; /* main editor window */
-  --color-base-10: #1c2127; /* code blocks */
+  --color-base-10: #282c34; /* code blocks */
   --color-base-20: #181c20; /* top unselected unfocused nav */
   --color-base-25: #2c313c;
   --color-base-30: #35393e;
