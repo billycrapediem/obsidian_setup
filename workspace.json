@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d16b77ef34985e74",
+        "id": "4fdf2b3f1c72318a",
         "type": "tabs",
         "children": [
           {
-            "id": "857979e2bee57422",
+            "id": "e1470fdb54b669f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.literature/Differential Equation.md",
+                "file": "04. board/01. Homepage.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "a640ee9be2fc20e7",
+            "id": "8007be4801f417cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "04. board/02. 代办.md",
-                "mode": "source",
-                "source": false
+                "file": "04. board/04.kanban/工作流.md"
               }
             }
           }
@@ -43,7 +41,6 @@
       {
         "id": "a1dc788ee193d248",
         "type": "tabs",
-        "dimension": 81.48148148148148,
         "children": [
           {
             "id": "e8875d62c9bfdd3a",
@@ -90,26 +87,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "18d713f22deed180",
-        "type": "tabs",
-        "dimension": 18.51851851851852,
-        "children": [
-          {
-            "id": "290bc2e1c058782f",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ac8004b4fe85b5ea",
@@ -125,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.literature/Differential Equation.md",
+                "file": "04. board/01. Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.literature/Differential Equation.md"
+                "file": "04. board/01. Homepage.md"
               }
             }
           },
@@ -147,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.literature/Differential Equation.md",
+                "file": "04. board/01. Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +136,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7de01bb245d0f0a5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -175,34 +166,37 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "857979e2bee57422",
+  "active": "e1470fdb54b669f4",
   "lastOpenFiles": [
-    "01.literature/01. Literature Note.md",
-    "01.literature/Higher order Differential equation.md",
+    "04. board/04.kanban/工作流.md",
     "04. board/01. Homepage.md",
     "04. board/02. 代办.md",
-    "03.record/2023 36周.md",
-    "05. project/math200/hw01.md",
-    "01.literature/Greedy DP.md",
-    "00.fleeting/06. 阅读计划.md",
+    "04. board/04.kanban/未命名看板.md",
     "04. board/03. 计划.md",
-    "04. board/07. 边栏任务清单.md",
-    "02.permanent/面试时间线.md",
-    "03.record/2023 35周.md",
-    "05. project/math200",
     "02.permanent/ML project report.md",
-    "01.literature/Sum of Independent Random variables.md",
-    "01.literature/Expectation and variance in the multivariate setting.md",
-    "01.literature/Joint Distribution for random Variables.md",
-    "01.literature/Approximation of binomial distribution.md",
+    "01.literature/music theory.md",
+    "04. board/04.kanban",
+    "00.fleeting/未命名.md",
+    "00.fleeting/Intro to React.md",
+    "00.fleeting/interview.md",
+    "00.fleeting/Homework2.md",
+    "00.fleeting/282 homework1.md",
+    "01.literature/01. Literature Note.md",
+    "00.fleeting/Cover letter.md",
+    "00.fleeting/Hw04.md",
+    "00.fleeting/Hw03.md",
+    "00.fleeting/hw02.md",
+    "01.literature/Transition to Higher math.md",
+    "02.permanent/面试时间线.md",
     "01.literature/Random Variables.md",
-    "01.literature/conditional probability.md",
-    "01.literature/Finite probability.md",
-    "00.fleeting/test.md",
-    "01.literature/C TuTorial.md",
-    "01.literature/Aconda.md",
+    "01.literature/Intro the matrix.md",
+    "04. board/07. 边栏任务清单.md",
+    "03.record/2023 38周.md",
+    "01.literature/Sum of Independent Random variables.md",
+    "01.literature/Differential Equation.md",
+    "01.literature/Expectation and variance in the multivariate setting.md",
+    "05. project/math200",
     "01.literature/reinforcement learning/EasyRL_v.1.0.4.pdf",
-    "01.literature/Vector space.md",
     "99. src/Screenshot 2023-06-11 at 11.01.21 AM.png",
     "99. src/Screenshot 2023-06-11 at 11.35.11 AM.png",
     "99. src/analysis.png",
@@ -210,8 +204,6 @@
     "99. src/Figur_1.png",
     "99. src/Figure_1.png",
     "99. src/special.png",
-    "05. project/RL env/env.md",
-    "00.fleeting/未命名 1.md",
     "05. project/RL env",
     "99. src/Screenshot 2023-07-23 at 6.45.16 PM.png",
     "99. src/Screenshot 2023-07-23 at 6.44.49 PM.png",
@@ -222,7 +214,6 @@
     "02.permanent",
     "02. 主页/未命名",
     "01. academic/reinforcement learning/EasyRL_v.1.0.4.pdf.sb-3817cfa2-b8Cata",
-    "99. src/training_nolabel.txt",
     "未命名.canvas"
   ]
 }

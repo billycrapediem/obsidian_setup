@@ -36,13 +36,6 @@
       "openFileInMode": "default"
     },
     {
-      "id": "f140ac0c-2459-4c3b-855f-8f3e2442583f",
-      "name": "add today task",
-      "type": "Macro",
-      "command": false,
-      "macroId": "f2ffe056-6552-4177-801e-6495c8603000"
-    },
-    {
       "id": "3e082ed0-1c33-42a7-85fc-b123faed0cc2",
       "name": "weekly note",
       "type": "Macro",
@@ -51,59 +44,6 @@
     }
   ],
   "macros": [
-    {
-      "name": "add today task",
-      "id": "f2ffe056-6552-4177-801e-6495c8603000",
-      "commands": [
-        {
-          "name": "Untitled Capture Choice",
-          "type": "NestedChoice",
-          "id": "805a6105-d0f5-4a28-8730-f7fb7b89577c",
-          "choice": {
-            "id": "c7b8e644-a56c-4419-95c3-786cf81acc2f",
-            "name": "Untitled Capture Choice",
-            "type": "Capture",
-            "command": false,
-            "appendLink": false,
-            "captureTo": "04. board/02. 代办.md",
-            "captureToActiveFile": false,
-            "createFileIfItDoesntExist": {
-              "enabled": false,
-              "createWithTemplate": false,
-              "template": ""
-            },
-            "format": {
-              "enabled": true,
-              "format": ""
-            },
-            "insertAfter": {
-              "enabled": false,
-              "after": "",
-              "insertAtEnd": false,
-              "considerSubsections": false,
-              "createIfNotFound": false,
-              "createIfNotFoundLocation": "top"
-            },
-            "prepend": true,
-            "task": false,
-            "openFileInNewTab": {
-              "enabled": false,
-              "direction": "horizontal",
-              "focus": true
-            },
-            "openFile": true,
-            "openFileInMode": "default"
-          }
-        },
-        {
-          "name": "Tasks: Create or edit task",
-          "type": "Obsidian",
-          "id": "0b9e194a-a334-41f7-8fb6-1305b8dab83e",
-          "commandId": "obsidian-tasks-plugin:edit-task"
-        }
-      ],
-      "runOnStartup": false
-    },
     {
       "name": "weekly note",
       "id": "29f5481d-9d6b-47f5-9737-b4558db691a3",

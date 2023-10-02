@@ -1,13 +1,12 @@
 [
   "obsidian-latex-suite",
   "table-editor-obsidian",
-  "recent-files-obsidian",
   "homepage",
   "dataview",
   "obsidian-banners",
-  "obsidian-tracker",
   "quickadd",
   "cmdr",
-  "obsidian-tasks-plugin",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "pseudocode-in-obs",
+  "obsidian-kanban"
 ]
