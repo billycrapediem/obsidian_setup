@@ -5,7 +5,6 @@
       "value": "04. board/01. Homepage",
       "kind": "File",
       "openOnStartup": true,
-      "hasRibbonIcon": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Reading view",

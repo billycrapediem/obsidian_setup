@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4fdf2b3f1c72318a",
+        "id": "39c1aae786b97cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "e1470fdb54b669f4",
+            "id": "ef5e073797be56a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c1f8f581e1ea885",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,18 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8007be4801f417cd",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "04. board/04.kanban/工作流.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ac8004b4fe85b5ea",
@@ -145,12 +145,30 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
+            }
+          },
+          {
+            "id": "8e4e973f74bf284b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "34e64dbdf8cb4386",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,42 +177,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:查看关系图谱": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:打开命令面板": false,
       "templates:插入模板": false,
-      "graph:查看关系图谱": false
+      "homepage:Open homepage": true
     }
   },
-  "active": "e1470fdb54b669f4",
+  "active": "9c1f8f581e1ea885",
   "lastOpenFiles": [
-    "04. board/04.kanban/工作流.md",
     "04. board/01. Homepage.md",
-    "04. board/02. 代办.md",
-    "04. board/04.kanban/未命名看板.md",
-    "04. board/03. 计划.md",
-    "02.permanent/ML project report.md",
-    "01.literature/music theory.md",
-    "04. board/04.kanban",
+    "00.fleeting/未命名 2.md",
     "00.fleeting/未命名.md",
-    "00.fleeting/Intro to React.md",
-    "00.fleeting/interview.md",
-    "00.fleeting/Homework2.md",
-    "00.fleeting/282 homework1.md",
-    "01.literature/01. Literature Note.md",
-    "00.fleeting/Cover letter.md",
-    "00.fleeting/Hw04.md",
-    "00.fleeting/Hw03.md",
-    "00.fleeting/hw02.md",
-    "01.literature/Transition to Higher math.md",
-    "02.permanent/面试时间线.md",
-    "01.literature/Random Variables.md",
+    "04. board/04.kanban/工作流.md",
+    "05. project/RL env/report.md",
+    "05. project/RL env/env.md",
+    "05. project/RL env/DRL communication coverage.md",
+    "05. project/math200/hw01.md",
+    "04. board/02. 代办.md",
+    "03.record/record 目录.md",
+    "03.record/2024 规划.md",
+    "03.record/2024 1.md",
+    "03. Notes/2024 1.md",
+    "03. Notes/2024 1moth.md",
+    "01.literature/Intro to React.md",
     "01.literature/Intro the matrix.md",
-    "04. board/07. 边栏任务清单.md",
-    "03.record/2023 38周.md",
-    "01.literature/Sum of Independent Random variables.md",
-    "01.literature/Differential Equation.md",
+    "01.literature/Finite probability.md",
     "01.literature/Expectation and variance in the multivariate setting.md",
+    "01.literature/Differential Equation.md",
+    "01.literature/Determinants.md",
+    "01.literature/conditional probability.md",
+    "01.literature/C TuTorial.md",
+    "01.literature/Approximation of binomial distribution.md",
+    "01.literature/Aconda.md",
+    "01.literature/01. Literature Note.md",
+    "01.literature/Linear Transformation.md",
+    "99. src/Pasted image 20240112134037.png",
+    "99. src/Pasted image 20240112134008.png",
+    "03. Notes",
+    "99. src/Screenshot 2023-10-16 at 4.34.39 PM.png",
+    "02.permanent/saas/saasbook.pdf",
+    "99. src/Screenshot 2023-03-21 at 8.03.53 PM.png",
+    "02.permanent/saas",
+    "02.permanent/untitled folder",
+    "04. board/04.kanban",
     "05. project/math200",
     "01.literature/reinforcement learning/EasyRL_v.1.0.4.pdf",
     "99. src/Screenshot 2023-06-11 at 11.01.21 AM.png",
@@ -203,17 +230,9 @@
     "99. src/conver_test.png",
     "99. src/Figur_1.png",
     "99. src/Figure_1.png",
-    "99. src/special.png",
     "05. project/RL env",
-    "99. src/Screenshot 2023-07-23 at 6.45.16 PM.png",
-    "99. src/Screenshot 2023-07-23 at 6.44.49 PM.png",
-    "99. src/Screenshot 2023-07-23 at 6.44.36 PM.png",
-    "03. Notes",
     "05. project",
     "主页",
-    "02.permanent",
-    "02. 主页/未命名",
-    "01. academic/reinforcement learning/EasyRL_v.1.0.4.pdf.sb-3817cfa2-b8Cata",
     "未命名.canvas"
   ]
 }

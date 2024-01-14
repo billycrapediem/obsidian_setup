@@ -8,5 +8,8 @@
   "cmdr",
   "obsidian-annotator",
   "pseudocode-in-obs",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-checklist-plugin",
+  "obsidian-discordrpc",
+  "nldates-obsidian"
 ]

@@ -22,5 +22,13 @@
       ],
       "key": "R"
     }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
   ]
 }

@@ -1,0 +1,413 @@
+{
+  "workspaces": {
+    "manage": {
+      "main": {
+        "id": "470780117a8dc9d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "4fdf2b3f1c72318a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1470fdb54b669f4",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "9b79c8b4d4b8a41d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "38e2e74045a60267",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "04. board/04.kanban/工作流.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "03bd281585fc73ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a1dc788ee193d248",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8875d62c9bfdd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cec55f7435c04762",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2d99bf9ee7588947",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "27e572fa14d64e99",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "ac8004b4fe85b5ea",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9cc093f1632a116",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4c80cb309f588a4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "04. board/04.kanban/工作流.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c280e8bf0f97dfba",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "04. board/04.kanban/工作流.md"
+                  }
+                }
+              },
+              {
+                "id": "af0f5586d940afad",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "04. board/04.kanban/工作流.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7de01bb245d0f0a5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "8e4e973f74bf284b",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 303.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "command-palette:打开命令面板": false
+        }
+      },
+      "active": "8e4e973f74bf284b"
+    },
+    "workflow": {
+      "main": {
+        "id": "470780117a8dc9d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "4803d76cf0f424de",
+            "type": "split",
+            "children": [
+              {
+                "id": "e95f03058a018246",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "657edced4af6c1df",
+                    "type": "leaf",
+                    "state": {
+                      "type": "kanban",
+                      "state": {
+                        "file": "04. board/04.kanban/工作流.md"
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3e4b2b3fb00cd847",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "7a04929d0fc7390f",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "07ec4e15c8bb9e7f",
+                        "type": "leaf",
+                        "state": {
+                          "type": "graph",
+                          "state": {}
+                        }
+                      },
+                      {
+                        "id": "c7240b12504a40a1",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "04. board/04.kanban/motivation table.md"
+                          }
+                        }
+                      }
+                    ],
+                    "currentTab": 1
+                  },
+                  {
+                    "id": "29d71ffbdad5bbfb",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "e388180a16469d96",
+                        "type": "leaf",
+                        "state": {
+                          "type": "kanban",
+                          "state": {
+                            "file": "04. board/04.kanban/book_list.md"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "03bd281585fc73ae",
+        "type": "split",
+        "children": [
+          {
+            "id": "a1dc788ee193d248",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8875d62c9bfdd3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cec55f7435c04762",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2d99bf9ee7588947",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "27e572fa14d64e99",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "ac8004b4fe85b5ea",
+        "type": "split",
+        "children": [
+          {
+            "id": "e9cc093f1632a116",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4c80cb309f588a4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "04. board/04.kanban/book_list.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c280e8bf0f97dfba",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "04. board/04.kanban/book_list.md"
+                  }
+                }
+              },
+              {
+                "id": "af0f5586d940afad",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "04. board/04.kanban/book_list.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "7de01bb245d0f0a5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "8e4e973f74bf284b",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "34e64dbdf8cb4386",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 303.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "command-palette:打开命令面板": false,
+          "templates:插入模板": false
+        }
+      },
+      "active": "e388180a16469d96"
+    }
+  },
+  "active": "workflow"
+}

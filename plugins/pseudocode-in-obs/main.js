@@ -14442,6 +14442,7 @@ var PseudocodeSuggestor = class extends import_obsidian2.EditorSuggest {
       "\\For{}",
       "\\EndFor",
       "\\If{}",
+      "\\Else",
       "\\Elif{}",
       "\\EndIf",
       "\\While{}",
